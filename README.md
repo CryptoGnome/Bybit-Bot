@@ -1,7 +1,4 @@
 # Bybit-Bot
-===================================================================
-                                      CURRENT SUPPORTED OS: WINDOWS
-===================================================================
 PLEASE NOTE THIS BOT IS FREE OF USE HOWEVER REQUIRES A AUTH KEY.
 YOU CAN OBTAIN THIS BY CREATING A NEW ACCOUNT TO USE WITH THIS BOT,
 WE CHECK BYBIT UID TO OUR AFFILATIE ACCOUNT TO AUTHORIZE THE USE.
