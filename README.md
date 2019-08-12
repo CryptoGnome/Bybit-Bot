@@ -44,7 +44,7 @@ Unzip Folder to location of you choice
 Install Node & PM2 to Restart your bot if there are any crashes:
 ----------------------------------------------------------------
 Install Node JS:
-https://nodejs.org/dist/v11.9.0/node-v11.9.0-x64.msi
+https://nodejs.org/dist/v12.8.0/node-v12.8.0-x64.msi
 
 Run Install PM2 Using Included Bat File
 
