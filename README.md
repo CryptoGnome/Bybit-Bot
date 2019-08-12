@@ -9,9 +9,8 @@ and counter trades them on Bybit where there is ZERO API friction and
 we are able to get orders in very quickly without over load.
 
 The theory is to trade very volatile moves when there are liquidations
-present and get in quickly with a market order and use a tight
-
-Take Profit and Stop Loss. (Ride the Wave Dudddde)
+present and get in quickly with a market order and use a tight Take Profit 
+and Stop Loss. (Ride the Wave Dudddde)
 
 
 Licence Keys:
