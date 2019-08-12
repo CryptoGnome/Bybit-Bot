@@ -3,12 +3,6 @@ PLEASE NOTE THIS BOT IS FREE OF USE HOWEVER REQUIRES A AUTH KEY.
 YOU CAN OBTAIN THIS BY CREATING A NEW ACCOUNT TO USE WITH THIS BOT,
 WE CHECK BYBIT UID TO OUR AFFILATIE ACCOUNT TO AUTHORIZE THE USE.
 
-You can use our link here:
-https://www.bybit.com/home/en/index.html?affiliate_id=767&group_id=213&group_type=1
-
-You can Register your UID with the BOT here:
-https://forms.gle/qkRYbQUq6FwJcUde9
-
 Liquidation Hunter is a little bot written in Python that looks at
 the liquidation feed via the Bitmex API for larger liquidation events
 and counter trades them on Bybit where there is ZERO API friction and
@@ -31,7 +25,7 @@ https://forms.gle/qkRYbQUq6FwJcUde9
 We also have a private discord channel for the BETA TESTERS here:
 https://discord.gg/4gBBGjz
 
-*Please message @cryptognome for the role to see the channels.
+*Please message @CryptoGnome#7769 on discord for the role to see the private BETA channels.
 
 
 Installation:
