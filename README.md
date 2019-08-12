@@ -48,6 +48,8 @@ https://nodejs.org/dist/v12.8.0/node-v12.8.0-x64.msi
 
 Run Install PM2 Using Included Bat File
 
+Run The UPDATE Bat file included to update PM2 automaticlly
+
 
 Edit Settings.py file with text editor:
 ---------------------------------------------------------------
