@@ -16,12 +16,15 @@ and Stop Loss. (Ride the Wave Dudddde)
 Licence Keys:
 ---------------------------------------------------------------
 You can use our link here:
+
 https://www.bybit.com/home/en/index.html?affiliate_id=767&group_id=213&group_type=1
 
 You can Register your UID with the BOT here:
+
 https://forms.gle/qkRYbQUq6FwJcUde9
 
 We also have a private discord channel for the BETA TESTERS here:
+
 https://discord.gg/4gBBGjz
 
 *Please message @CryptoGnome#7769 on discord for the role to see the private BETA channels.
@@ -37,6 +40,7 @@ Unzip Folder to location of you choice
 Install Node & PM2 to Restart your bot if there are any crashes:
 ----------------------------------------------------------------
 Install Node JS:
+
 https://nodejs.org/dist/v12.8.0/node-v12.8.0-x64.msi
 
 Run Install PM2 Using Included Bat File
