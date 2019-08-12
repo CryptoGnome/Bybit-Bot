@@ -31,7 +31,7 @@ We also have a private discord channel for the BETA TESTERS here:
 
 https://discord.gg/4gBBGjz
 
-*Please message @CryptoGnome#7769 on discord for the role to see the private BETA channels.
+Please message @CryptoGnome#7769 on discord for the role to see the private BETA channels.
 
 
 Installation:
