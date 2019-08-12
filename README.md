@@ -47,7 +47,6 @@ Install Node & PM2 to Restart your bot if there are any crashes:
 
 -Run Install PM2 Using Included Bat File
 
-**only required on the first install.
 ---------------------------------------------------------------
 Edit Settings.py file with text editor:
 ---------------------------------------------------------------
