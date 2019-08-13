@@ -71,11 +71,11 @@ If you need to kill the bot use the Included Bat file named <Stop Bot>.
 
 Common Errors:
 ---------------------------------------------------------------
-```INFO - 2019-08-13 18:03:20,105 - Failed to retrieve access token: {
+`INFO - 2019-08-13 18:03:20,105 - Failed to retrieve access token: {
   "error": "invalid_grant",
   "error_description": "Invalid JWT: Token must be a short-lived token (60 minutes) and in a reasonable timeframe. Check your iat and exp values and use a clock with skew to account for clock differences between systems."
-}```
+}`
 
-Time Clock is OFF use this:
+Time Clock Sync is OFF use this:
 http://www.timesynctool.com/
 
