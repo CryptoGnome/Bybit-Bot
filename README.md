@@ -65,9 +65,11 @@ All of these settings effect the core strategy of the bot and there are descript
 
 How to Run Bot:
 ---------------------------------------------------------------
-Use the Included Bat file <Bot Monitor> to launch PM2 Monitor.
-Use the Included Bat File Named <Run Bot> to start Liquidation Hunter.
-If you need to kill the bot use the Included Bat file named <Stop Bot>.
+Use the Included .bat file named _**Monitor**_ to launch the PM2 screen.
+
+Use the Included .bat file named _**Start Bot**_ to start the bot. 
+
+If you need to kill the bot use the Included .bat file named _**Stop Bot**_
 
 Common Errors:
 ---------------------------------------------------------------
