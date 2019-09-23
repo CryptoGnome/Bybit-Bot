@@ -54,8 +54,8 @@ Run Install PM2 Using Included Bat File
 
 Edit Settings.py file with text editor:
 ---------------------------------------------------------------
-Enter API Keys for ALL exchanges (Orders are only placed on Deribit - Bitmex is READ ONLY)
-We use Bitmex for liquidations, Deribit for price calculation(Bybit does not have tick data), and bybit to place orders.
+Enter API Keys for ALL exchanges.
+We use Bitmex for liquidations, and Bybit to place orders.
 
 
 MAIN SETTINGS:
