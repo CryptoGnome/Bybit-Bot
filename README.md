@@ -14,9 +14,7 @@ Full Wiki here:
 
 https://github.com/CryptoGnome/Bybit-Bot/wiki
 
-Grab the Latest Release here:
 
-https://github.com/CryptoGnome/Bybit-Bot/releases
 
 
 
