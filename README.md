@@ -1,4 +1,4 @@
-# Bybit-Liquidation-Hunter
+![](https://i.imgur.com/IsCsqBR.jpg)
 
 Liquidation Hunter is a little bot written in Python that looks at
 the liquidation feed via the Bitmex API for larger liquidation events
