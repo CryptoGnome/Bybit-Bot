@@ -9,8 +9,9 @@ The theory is to trade very volatile moves when there are liquidations
 present and get in quickly with a market order and use a tight Take Profit 
 and Stop Loss. (Ride the Wave Dudddde)
 
+<br>
 
-Full Wiki here:
+***Full Wiki here:***
 
 https://github.com/CryptoGnome/Bybit-Bot/wiki
 
