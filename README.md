@@ -11,7 +11,7 @@ and Stop Loss. (Ride the Wave Dudddde)
 
 <br>
 
-***Full Wiki here:***
+***Full Wiki Here:***
 
 https://github.com/CryptoGnome/Bybit-Bot/wiki
 
