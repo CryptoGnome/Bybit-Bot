@@ -1,5 +1,3 @@
-[![IMAGE ALT TEXT HERE](https://i.imgur.com/cdJ7c9s.jpg)](https://www.youtube.com/watch?v=4-1NyT2h6WE)
-
 Liquidation Hunter is a little bot written in Python that looks at
 the liquidation feed via the Bitmex API for larger liquidation events
 and counter trades them on Bybit where there is ZERO API friction and
@@ -11,9 +9,10 @@ and Stop Loss. (Ride the Wave Dudddde)
 
 <br>
 
-***Full Wiki Here:***
+***PROJECT MOVED TO THESE REPOS:***
 
-https://github.com/CryptoGnome/Bybit-Bot/wiki
+https://github.com/CryptoGnome/Bybit-Futures-Bot
+https://github.com/CryptoGnome/LickHunterPRO
 
 
 
